@@ -21,7 +21,7 @@ console.log(b);*/
 
 
 // what is global scope ? 
-//OUTPUT [ inner 6    100]
+//OUTPUT [ inner 66    100]
 
 
 let a = 100;
