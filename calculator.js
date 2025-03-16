@@ -6,8 +6,7 @@ alert("Hello, " + nam+ "!");*/
  /*function calculator() {
     let a=prompt("enter value a" , "1,2,3....");
     let b=prompt("enter value b" , "1,2,3....");
-    let sum = a+b;
-    let minus = a-b;
+   
    
 }
 
