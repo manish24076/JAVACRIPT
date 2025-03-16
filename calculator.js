@@ -8,8 +8,7 @@ alert("Hello, " + nam+ "!");*/
     let b=prompt("enter value b" , "1,2,3....");
     let sum = a+b;
     let minus = a-b;
-    alert("Sum is"+minus+".");
-    alert("Sum is"+minus+".");
+   
 }
 
 
